@@ -1,2 +1,2 @@
 # 100AlgorithmChallangeJS
-Daily algorithm cardio in javascript.
+Daily algorithm cardio in javascript.🔥
